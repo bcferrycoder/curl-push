@@ -6,7 +6,7 @@
 STACKATO_HOST=https://api.192.168.0.112.xip.io
 USERNAME=jdw
 PASSWORD=jdw
-APPNAME=java-hello
+APPNAME=hello-java
 ZIPFILE=my-app.zip
 # end customization section
 
