@@ -2,12 +2,13 @@
 
 # this script invokes the Cloud Foundry APIs via curl to push an application
 
-# Customize these
+# customization section
 STACKATO_HOST=https://api.192.168.0.112.xip.io
 USERNAME=jdw
 PASSWORD=jdw
 APPNAME=java-hello
 ZIPFILE=my-app.zip
+# end customization section
 
 
 if [ ! -f "$ZIPFILE" ]
